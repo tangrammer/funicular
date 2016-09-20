@@ -1,0 +1,3 @@
+# funicular
+
+Testing org-mode + literate programming
